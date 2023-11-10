@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 //<div class="parent">
 //  <div class="child">
 //    <h1>h1</h1>
