@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "kunal"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Pizza hut",
+      "avgRating": 3.3,
+      "costForTwo": 4000,
+      "deliveryTime": 10,
+      "imgId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+      "cuisines": ["pizzas"],
+      "menuItems": [
+        { "id": 1, "name": "Chicken Wings Meal", "price": 200 },
+        { "id": 2, "name": "Ultimate Savings Chicken Bucket", "price": 200 },
+        { "id": 3, "name": "Green Pitch Veg Meal", "price": 200 },
+        { "id": 4, "name": "LBW Chicken Bucket", "price": 200 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "KFC",
+      "avgRating": 4.2,
+      "costForTwo": 4000,
+      "deliveryTime": 20,
+      "imgId": "56c9ab92bd79745fd152a30fa2525426",
+      "cuisines": ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+      "menuItems": [
+        { "id": 1, "name": "Chicken Wings Meal", "price": 200 },
+        { "id": 2, "name": "Ultimate Savings Chicken Bucket", "price": 200 },
+        { "id": 3, "name": "Green Pitch Veg Meal", "price": 200 },
+        { "id": 4, "name": "LBW Chicken Bucket", "price": 200 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "McDonalds's",
+      "avgRating": 4.5,
+      "costForTwo": 8000,
+      "deliveryTime": 10,
+      "imgId": "bb7ae131544c7d37e10fc5faf76f09d6",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "menuItems": [
+        { "id": 1, "name": "Chicken Wings Meal", "price": 200 },
+        { "id": 2, "name": "Ultimate Savings Chicken Bucket", "price": 200 },
+        { "id": 3, "name": "Green Pitch Veg Meal", "price": 200 },
+        { "id": 4, "name": "LBW Chicken Bucket", "price": 200 }
+      ]
+    }
+  ]
+}
